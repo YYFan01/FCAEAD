@@ -3,7 +3,7 @@
 This directory contains the core Python implementation of FCAEAD and the
 illustrative dataset used in the supplementary material of the paper:
 
-> Y. Fan, X. Zhang, J. Wang, J. Liu, and Q. Shen, "A novel uncertainty
+> "A novel uncertainty
 > measure integrating fuzzy beta-covering rough set and information entropy
 > for data anomaly detection," submitted to *IEEE Transactions on Fuzzy
 > Systems*.
